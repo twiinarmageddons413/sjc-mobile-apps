@@ -1,0 +1,5 @@
+C:\Users\Brendon\AndroidStudioProjects\HelloWorld\app\build\intermediates\classes\debug
+C:\Users\Brendon\AndroidStudioProjects\HelloWorld\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-fd3bdcc9b756240f1586a301f928c0b46f2880ab.jar
+C:\Users\Brendon\AndroidStudioProjects\HelloWorld\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-8f9ff843b775a3d1a974370ed40beb6ae0008fc6.jar
+C:\Users\Brendon\AndroidStudioProjects\HelloWorld\app\build\intermediates\pre-dexed\debug\classes-ab19579db7bbd2d7a7fce648eb9ce68746e0ac9d.jar
+C:\Users\Brendon\AndroidStudioProjects\HelloWorld\app\build\intermediates\pre-dexed\debug\classes-95b9b9b2fffebe9d7f97f5517333c593889bd92c.jar
